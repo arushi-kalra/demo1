@@ -1,0 +1,8 @@
+Flask==1.1.2
+Flask-RESTful==0.3.8
+Flask-JWT
+Flask-SQLAlchemy
+uwsgi
+Jinja2==2.11.1
+joblib==0.14.1
+scikit-learn==0.22.2.post1
