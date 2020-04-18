@@ -20,4 +20,4 @@ class Employee(Resource):
 		return employee_info
 
 api.add_resource(Employee,"/info")
-app.run(debug=True)
+app.run(port=8000,debug=True)
